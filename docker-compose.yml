@@ -1,0 +1,11 @@
+version: '2'
+services:
+  k12-scraper:
+    build: .
+    volumes:
+      - .:/app
+    environment:
+      PYTHONUNBUFFERED: 1
+      USERNAME: "xxxxxx"
+      PASSWORD: "xxxxxx"
+      APP: "XXXX"
