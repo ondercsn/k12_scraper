@@ -2,7 +2,7 @@
 
 **Metod 1 (Kolay):**
 
-Ornek erkan_adana okulu icin asagidaki komutu calistirarak calisilan klasore butun dosyalar indirilir. 
+Ornek erkan adana okulu icin asagidaki komutu calistirarak calisilan klasore butun dosyalar indirilir. 
 USERNAME ve PASSWORD degiskenleri k12 uygulamasina giris yapilirken kullanilan kullanici adi ve sifredir. 
 
 ```
